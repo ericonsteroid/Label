@@ -1,0 +1,102 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - CardIO (5.4.1)
+  - ElasticTransition (3.1.1):
+    - MotionAnimation (~> 0.1.2)
+  - GoogleAnalytics (3.17.0)
+  - MotionAnimation (0.1.2)
+  - NVActivityIndicatorView (4.2.0):
+    - NVActivityIndicatorView/Presenter (= 4.2.0)
+  - NVActivityIndicatorView/Presenter (4.2.0)
+  - OneSignal (2.8.2)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PinterestSegment (1.2.0)
+  - PMAlertController (3.4.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - Spring (1.0.5)
+  - STRegex (1.1.0)
+  - Stripe (12.1.2)
+  - SwiftDate (4.5.1)
+  - SwiftyJSON (4.1.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.3)
+  - ElasticTransition
+  - GoogleAnalytics
+  - NVActivityIndicatorView
+  - OneSignal
+  - OneSignal (< 3.0, >= 2.6.2)
+  - PayPal-iOS-SDK
+  - PinterestSegment
+  - PMAlertController
+  - SDWebImage (~> 4.0)
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+  - STRegex (~> 1.1)
+  - Stripe
+  - SwiftDate
+  - SwiftyJSON
+  - Toast-Swift (~> 3.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CardIO
+    - ElasticTransition
+    - GoogleAnalytics
+    - MotionAnimation
+    - NVActivityIndicatorView
+    - OneSignal
+    - PayPal-iOS-SDK
+    - PinterestSegment
+    - PMAlertController
+    - SDWebImage
+    - STRegex
+    - Stripe
+    - SwiftDate
+    - SwiftyJSON
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 19b04d730d3edabbb02a39e58121d1d3220690ee
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  ElasticTransition: 6c4e4739e32480c864217db912100f3657f6447a
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  MotionAnimation: ff5c8fc2e429d7e10d46ae86819ba9759846c343
+  NVActivityIndicatorView: 75c9634073e03b31d7e2748cd2417feab1206195
+  OneSignal: ab5c509192ca8390bdd3570a6261e6decf4c79c1
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  PinterestSegment: d589fce6c62141466b9f36ea8ab0a16fde9ac8f4
+  PMAlertController: efb781925d741d50e0200018a00c53cecb8b4910
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  Spring: 48aad470f3ead043b2da98b64e0bf0630b7ebc42
+  STRegex: eb1f4c2fe9e2f0265b8df8634774cd8cd8914018
+  Stripe: 3230cdf8a8b0c04902e45e86f222fb82a926239c
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: db3bc7907888d7dcb57c2a4ebbf59d1468392745
+
+COCOAPODS: 1.5.0
