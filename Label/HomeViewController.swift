@@ -40,8 +40,6 @@ class HomeViewController: ParentLabelVC, LabelBootstrap {
     var segment:PinterestSegment!
     var i:Int! = 0
     
-    //trying a push
-    
     // MARK: UI OUTLETS
     
     @IBOutlet weak var viewContainerHeaderCategory: UIView!
